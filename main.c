@@ -2,7 +2,8 @@
 
 int main() {
     printf("Hello, World\n");
-    printf("Goodbye, World\n"):
-    return 0;
+    printf("Goodbye, World\n");
+    printf("Led Zeppelin ruls\n");
+ return 0;
 }
 
