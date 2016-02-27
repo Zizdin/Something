@@ -6,6 +6,7 @@ int main() {
     printf("Led Zeppelin ruls\n");
     printf("We all gonna die");
     printf("random");
+    printf("Isaak is dead");
     return 0;
 }
 
